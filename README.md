@@ -1,8 +1,8 @@
-### Hi there 👋 
-#### I'm new in Data Science and currently learning Deep Learning 🌱
-#### I’m always open to new ideas and information 😄
+### 안녕하세요 👋
+#### 데이터 사이언스를 공부 중입니다. 🌱
+#### 새로운 아이디어나 정보 교환은 언제나 환영입니다. :yum:
 
-### My Project
+### 프로젝트
 - eda_seoul_market_area
 - crawling_fleafully
 - regression_twitch
