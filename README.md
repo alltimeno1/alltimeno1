@@ -9,7 +9,6 @@
 - eda_seoul_market_area
 - how to use
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://alltimeno1.github.io/)](https://alltimeno1.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EC%A4%80-%EA%B9%80-28a281204/)](https://www.linkedin.com/in/%EC%84%B1%EC%A4%80-%EA%B9%80-28a281204/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cuhz108@gmail.com)](mailto:cuhz108@gmail.com)
 
