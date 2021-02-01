@@ -2,6 +2,7 @@
 #### 새로운 아이디어나 정보 교환은 언제나 환영입니다. :yum:
 
 ### 프로젝트
+- dl_furniture_recommendation
 - ml_socar 
 - regression_twitch
 - crawling_fleafully
