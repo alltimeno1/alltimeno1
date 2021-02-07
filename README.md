@@ -7,7 +7,6 @@
 - 회귀 - 트위치 팔로워 증가수 분석
 - 크롤링 - 중고마켓 가격 비교
 - EDA - 서울시 상권 분석
-- 학습 자료 - how to use
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://alltimeno1.github.io/)](https://alltimeno1.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EC%A4%80-%EA%B9%80-28a281204/)](https://www.linkedin.com/in/%EC%84%B1%EC%A4%80-%EA%B9%80-28a281204/)
