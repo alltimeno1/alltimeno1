@@ -5,7 +5,7 @@
 - 가구 추천 시스템
 - 쏘카 렌터카 보험 사기 탐지
 - 트위치 팔로워 증가수 분석
-- 중고마켓 가격 비교
+- 중고마켓 가격 비교 웹사이트
 - 서울시 상권 분석
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://alltimeno1.github.io/)](https://alltimeno1.github.io/)
