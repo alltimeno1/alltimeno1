@@ -2,11 +2,11 @@
 #### 새로운 아이디어나 정보 교환은 언제나 환영입니다. :yum:
 
 ### 프로젝트
-- 딥러닝   : 가구 추천 시스템
-- 머신러닝 : 쏘카 렌터카 보험 사기 탐지
-- 회귀     : 트위치 팔로워 증가수 분석
-- 크롤링   : 중고마켓 가격 비교
-- EDA      : 서울시 상권 분석
+- 가구 추천 시스템
+- 쏘카 렌터카 보험 사기 탐지
+- 트위치 팔로워 증가수 분석
+- 중고마켓 가격 비교
+- 서울시 상권 분석
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://alltimeno1.github.io/)](https://alltimeno1.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%EC%A4%80-%EA%B9%80-28a281204/)](https://www.linkedin.com/in/%EC%84%B1%EC%A4%80-%EA%B9%80-28a281204/)
